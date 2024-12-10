@@ -1,6 +1,6 @@
 # Angel Casanova's Portfolio
 
-I am a Civil Engineering major with a minor in Computer Science and I expect to graduate in 2026. 
+I am a student currently attending California State University of Fullerton. I am a Civil Engineering major with a minor in Computer Science and I expect to graduate in 2026. 
 
 ## Favorite CPSC 120L Labs
 * Lab 1
